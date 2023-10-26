@@ -2,20 +2,9 @@
   
 ### Documentación del taller de mediación de [Los Caídos](https://channel.somersethouse.org.uk/artworks/all/los-ca%C3%ADdos-the-fallen) obra de Juan Covelli en Espacio Odeón 2023
 
- 
+![](https://github.com/M0N44/Los-ca-dos-memorias-en-IA/blob/main/untitled%20(1).gif) 
 
 
-
-
-## Tutoriales para crear animaciones con IA
-
-[Deforum: Notebook de python, tutoriales para animación, etc](https://deforum.github.io/)
-
-<a href="https://www.youtube.com/watch?v=2Q93aWLVgTk" target="_blank"><img src="http://img.youtube.com/vi/2Q93aWLVgTk/0.jpg" 
-alt="Tutorial para creación de animaciones" width="240" height="180" border="10" /></a>
-
-<a href="https://www.youtube.com/watch?v=T6WPz9Pj5Ro" target="_blank"><img src="http://img.youtube.com/vi/T6WPz9Pj5Ro/0.jpg" 
-alt="Tutorial para creación de animaciones con input de video" width="240" height="180" border="10" /></a>
 
 
 ## Justicia y ética algorítmica  
@@ -41,6 +30,17 @@ alt="Tutorial para creación de animaciones con input de video" width="240" heig
 [Dries Depoorter](https://driesdepoorter.be/theflemishscrollers/)
 
 [Sofía Crespo](https://traumadoll.persona.co/more-traumas)
+
+
+## Tutoriales para crear animaciones con IA
+
+[Deforum: Notebook de python, tutoriales para animación, etc](https://deforum.github.io/)
+
+<a href="https://www.youtube.com/watch?v=2Q93aWLVgTk" target="_blank"><img src="http://img.youtube.com/vi/2Q93aWLVgTk/0.jpg" 
+alt="Tutorial para creación de animaciones" width="240" height="180" border="10" /></a>
+
+<a href="https://www.youtube.com/watch?v=T6WPz9Pj5Ro" target="_blank"><img src="http://img.youtube.com/vi/T6WPz9Pj5Ro/0.jpg" 
+alt="Tutorial para creación de animaciones con input de video" width="240" height="180" border="10" /></a>
 
 
 ## Herramientas para entrenamiento de modelos 
